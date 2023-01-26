@@ -2,7 +2,7 @@
 
 ### I'm unity developer
 
-I study at 21 school and at SSUWT on information systems and technologies.
+I study at SSUWT on information systems and technologies.
 
 <br />
 
