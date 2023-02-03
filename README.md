@@ -3,6 +3,7 @@
 ### I'm unity developer
 
 I study at SSUWT on information systems and technologies.
+I work at Max Fun Games.
 
 <br />
 
