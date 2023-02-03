@@ -15,10 +15,10 @@ I study at SSUWT on information systems and technologies. I work at MaxFun Games
 <img align="left" alt="Markdown" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" />
 <img align="left" alt="Linux" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" />
 
+<br />
+<br />
+<br />
 
-<br />
-<br />
-<br />
 
 ### Stats
 ---
