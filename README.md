@@ -2,7 +2,7 @@
 
 ### I'm unity developer
 
-I study at SSUWT on information systems and technologies. I work at MaxFun Games.
+I study at SSUWT on information systems and technologies.
 <br />
 ### Technology stack
 ---
