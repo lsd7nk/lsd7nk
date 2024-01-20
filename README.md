@@ -27,20 +27,3 @@ I study at SSUWT on information systems and technologies.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeepIsAlive&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contacts
----
-
-<p align="center">
-   <a href="https://vk.com/peepisalive">
-    <img align="center" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" width="50px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/PeepIsAlive" target="_blank" style='margin-right:10px'>
-    <img align="center" style="margin-right:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="50px" />
-  </a>
-  &nbsp;&nbsp;
-    <a href="mailto:ser.elovikovgames@gmail.com" target="_blank" >
-    <img align="center" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="50px" />
-  </a>
-  &nbsp;&nbsp;
-</p>
