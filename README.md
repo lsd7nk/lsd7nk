@@ -23,7 +23,7 @@ I study at SSUWT on information systems and technologies.
 ### Stats
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeepIsAlive&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsd7nk&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeepIsAlive&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsd7nk&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
