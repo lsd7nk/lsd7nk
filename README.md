@@ -11,7 +11,6 @@ I study at SSUWT on information systems and technologies.
 <img align="left" alt="C#" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" />
 <img align="left" alt="Bash" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" />
-<img align="left" alt="Markdown" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" />
 <br />
 <br />
 <br />
